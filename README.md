@@ -77,7 +77,7 @@ The most popular places for Citibike customers to end their journeys in New York
 
 Overall, males were the primary users of Citibikes in New York City during August 2019. The most popular usage hours occurred around 6am till 9am in the morning and between 5 pm and 7 pm in the evening on weekdays and between 10 am and 6 pm on weekends. 
 
-For future analysis, I would suggest looking into data collected from other seasons, to see if the temperatures and weather do any difference to the bike rentals. And secondly, since Thursday is the most popular day of weekdays, I suggest looking into other modes of transportation routes to see how that affects the usage of bike rentals each day of the week
+For future analysis, I would suggest looking into data collected from other seasons, to see if the temperatures and weather do any difference to the bike rentals. And secondly, since Thursday is the most popular day of weekdays, I suggest looking into other modes of transportation routes to see how that affects the usage of bike rentals each day of the week.
 
 
 
