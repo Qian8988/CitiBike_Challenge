@@ -2,6 +2,9 @@
 
 Module 14 Challenge
 
+[NYC_Citibike_Challenge.ipynb](NYC_Citibike_Challenge.ipynb)
+
+
 ## Overview of the analysis: 
 
 Use Pandas to change the "tripduration" column from an integer to a datetime datatype. Then, use the converted datatype to create a set of visualizations to show the length of time that bikes are checked out for all riders and genders; show the number of bike trips for all riders and genders for each hour of each day of the week; show the number of bike trips for each type of user and gender for each day of the week. Then, add new visualizations to the final presentation and analysis to pitch to investors.
